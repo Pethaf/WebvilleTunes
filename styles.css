@@ -2,3 +2,14 @@
 {
 	border:2px solid red;
 }
+
+ul#playlist
+{
+	list-style: none;
+	font-family: 'Roboto', sans-serif;
+}
+
+form 
+{
+	padding-bottom: 2em;
+}
