@@ -13,3 +13,13 @@ form
 {
 	padding-bottom: 2em;
 }
+
+ul#playlist li 
+{
+	padding-top: 15px;
+}
+
+ul#playlist:first-child
+{
+	padding-top: 0px;
+}
